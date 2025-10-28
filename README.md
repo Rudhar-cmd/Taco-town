@@ -28,6 +28,4 @@
 ## Clone the Repository
 ```bash
 git clone https://github.com/Rudhar-cmd/Taco-town.git
-```
-##Gif : 
 ![output](https://github.com/username/repository-name/raw/main/assets/taco-town-demo.gif)
