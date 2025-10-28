@@ -24,8 +24,4 @@
 - Styled with CSS in the 'public/styles' folder
 - Runs locally on port 3001
 
-## How to Use
-## Clone the Repository
-```bash
-git clone https://github.com/Rudhar-cmd/Taco-town.git
 ![output](https://github.com/username/repository-name/raw/main/assets/taco-town-demo.gif)
