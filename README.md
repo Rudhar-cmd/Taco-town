@@ -25,7 +25,6 @@
 - Styled with CSS in the 'public/styles' folder
 - Runs locally on port 3001
 
-### GIFF
 
 ![GIFF](https://github.com/user-attachments/assets/616ee8e7-6bfa-4257-af16-f9ddb33166d2)
 
