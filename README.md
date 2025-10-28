@@ -28,3 +28,5 @@
 ## Clone the Repository
 ```bash
 git clone https://github.com/Rudhar-cmd/Taco-town.git
+
+![Taco Town Demo](https://github.com/user-attachments/assets/3ed0e611-6c0a-4d02-8579-1d6266e13841)
