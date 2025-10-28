@@ -1,4 +1,4 @@
-![GIFF](https://github.com/user-attachments/assets/e8dd9684-3078-4066-be20-10f699920d98)## Taco Town (Node.js + Express + EJS)
+## Taco Town (Node.js + Express + EJS)
 
 ### Description
 - Taco Town is a Node.js web application that lets users explore different taco recipes — Chicken, Beef, and Fish.
