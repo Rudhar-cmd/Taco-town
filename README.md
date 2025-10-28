@@ -30,5 +30,4 @@
 git clone https://github.com/Rudhar-cmd/Taco-town.git
 ```
 ##Gif : 
-```bash
-![Taco Town Demo](https://github.com/username/repository-name/raw/main/assets/taco-town-demo.gif)
+![output](https://github.com/username/repository-name/raw/main/assets/taco-town-demo.gif)
